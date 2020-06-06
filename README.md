@@ -1,3 +1,21 @@
+# Next Level Week Web app
+
+## Others repositories links
+
+- [Mobile](https://github.com/AndreLuiz-JS/nlw-mobo)
+
+- [Backend](https://github.com/AndreLuiz-JS/nlw-backend)
+
+# ScreenShots
+
+  <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; column-gap: 10px; justify-content:center; align-items:center; width:100%;">
+  <img src="screenShots/webSc1.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
+  <img src="screenShots/webSc2.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
+  <img src="screenShots/webSc3.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
+  </div>
+
+# About
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
