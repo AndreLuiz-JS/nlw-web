@@ -9,9 +9,9 @@
 # ScreenShots
 
   <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; column-gap: 10px; justify-content:center; align-items:center; width:100%;">
-  <img src="screenShots/webSc1.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
-  <img src="screenShots/webSc2.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
-  <img src="screenShots/webSc3.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/AndreLuiz-JS/nlw/screenShots/webSc1.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/AndreLuiz-JS/nlw/screenShots/webSc2.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/AndreLuiz-JS/nlw/screenShots/webSc3.png" alt="Web screenshot" width="250px" style="margin: 10px;"/>
   </div>
 
 # About
